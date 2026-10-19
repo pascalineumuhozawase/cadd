@@ -1,0 +1,5 @@
+# Keep this folder in Git. Place the trained model here:
+#   models/mobilenetv2_cassava.keras
+#
+# The service loads this file at startup.
+# See notebooks/training.ipynb for how to produce it.
